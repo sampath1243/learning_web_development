@@ -1,0 +1,24 @@
+.jane{
+    
+    text-align: center;
+    margin-top: 280px;
+    font-size: 450%;
+}
+.john{
+
+    text-align: center;
+    font-size: 250%;
+    margin-top: -3%;
+}
+
+.date{
+    
+    text-align: center;
+    font-size: 250%;
+    margin-top: -10;
+}
+
+body{
+    background: blue url('https://www.w3schools.com/w3images/wedding_couple.jpg') no-repeat center/cover fixed;
+    color: white;
+}

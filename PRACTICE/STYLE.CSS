@@ -1,0 +1,33 @@
+h1{
+    color: brown;
+    font-size: 60px;
+}
+
+/* .buchi{
+
+    text-align: center;
+    border: 1PX;
+    margin: 19%;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_C0FlTzukdzLypo_cZYn289WBlIko9yicJw&s');
+    background-size: cover;
+} */
+
+body{
+    margin: 0;
+    height: 100vh;
+
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_C0FlTzukdzLypo_cZYn289WBlIko9yicJw&s');
+    background-size: cover;
+    background-position: center;
+
+    display: flex;
+    justify-content: center;   /* horizontal center */
+    align-items: center;       /* vertical center */
+}
+
+h1{
+    color: white;
+    font-size: 60px;
+}
