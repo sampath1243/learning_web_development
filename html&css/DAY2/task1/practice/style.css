@@ -1,0 +1,25 @@
+/* @media screen and (max-width: 600px){
+    h1{
+        color: red;
+    }
+
+} */
+/* @media print{
+    h1{
+        color: red;
+    }
+} */
+
+@media (max-width: 620px){
+    h1{
+        color: red;
+    }
+
+    
+}
+
+/* @media (min-width: 620px){
+    h1{
+        color: red;
+    }
+} */

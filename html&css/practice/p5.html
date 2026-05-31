@@ -1,0 +1,47 @@
+<!-- Next Challenge — Element + Class Combination
+
+Create a webpage with:
+
+One <h1>
+Two <p> paragraphs
+One <div>
+Requirements
+
+Only paragraphs having class "special" should:
+
+become purple
+font size 25px
+
+The <div> should NOT change even if it has class "special".
+
+Important Rule
+
+Use:
+
+p.special
+
+This means:
+
+👉 Select ONLY <p> tags with class "special". -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p.special{
+            color: purple;
+            font-size: 25px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Problem number 5</h1>
+    <div class="special">
+        <p class="special">Lorem ipsum dolor sit amet.</p>
+        <p class="special">Lorem ipsum dolor sit amet consectetur.</p>
+    </div>
+</body>
+</html>
