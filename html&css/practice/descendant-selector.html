@@ -1,0 +1,47 @@
+<!-- Problem
+
+Create a webpage with:
+
+One <h1>
+One <div>
+inside div:
+two paragraphs
+One paragraph OUTSIDE div
+Requirements
+
+Only paragraphs INSIDE the <div> should:
+
+become blue
+font size 20px
+
+Paragraph outside div should remain normal.
+
+Rules
+
+Use ONLY:
+
+div p -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div p{
+            color: blue;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Descendant Selector</h1>
+    <div>
+        <p>Lorem ipsum dolor sit amet.</p>
+        <p>Lorem ipsum dolor sit.</p>
+    
+    </div>
+    <p>Lorem ipsum dolor sit amet.</p>
+</body>
+</html>

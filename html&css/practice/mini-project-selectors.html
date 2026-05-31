@@ -1,0 +1,68 @@
+<!-- Final Mini Project Challenge 🚀
+
+Create a small webpage containing:
+
+One heading
+Navigation links
+Two paragraphs
+One button
+Two input fields
+Requirements
+
+Use ALL these selectors:
+
+Selector Type	Requirement
+Element selector	Style all paragraphs
+ID selector	Style heading
+Class selector	Style navigation links
+Group selector	Style h1 + button together
+Universal selector	Remove margin/padding
+Hover pseudo-class	Button hover effect
+Attribute selector	Style text input only
+Goal
+
+Mix everything together like a real mini webpage.
+ -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p{
+            color: yellow;
+        }
+
+        #heading{
+            color: red;
+        }
+        h1,button{
+            color: green;
+        }
+        button:hover{
+            color: blue;
+        }
+        input[type="text"]{
+            color: brown;
+        }
+        .nav-link{
+            color: orange;
+        }
+        *{
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="heading">Mini Project</h1>
+    <a class="nav-link" href="https://www.w3schools.com/css/css_selectors.asp">CSS</a>
+    <p>Lorem ipsum dolor sit amet.</p>
+    <p>Lorem ipsum dolor sit amet.</p>
+    <button>submit</button>
+    <input type="text" placeholder="email">
+    <input type="password" placeholder="password">
+</body>
+</html>
