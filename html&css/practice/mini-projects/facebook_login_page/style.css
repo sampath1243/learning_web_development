@@ -1,0 +1,15 @@
+
+
+body{
+    border: 2px solid red;
+    margin: 350px auto;
+    padding: 75px;
+    width: 100px;
+    
+    
+}
+div{
+
+    width: 100%;
+    box-sizing: border-box;
+}
