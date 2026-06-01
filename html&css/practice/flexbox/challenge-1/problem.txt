@@ -1,0 +1,19 @@
+Problem:
+Create a flex container with 3 boxes.
+
+Parent:
+
+* display flex
+* lightgray background
+* 20px padding
+
+Children:
+
+* 100px width
+* 100px height
+* lightblue background
+* 2px solid blue border
+* 10px margin
+
+Goal:
+Understand basic Flexbox layout.

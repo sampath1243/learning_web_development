@@ -1,0 +1,25 @@
+Display Inline-Block
+
+Now learn:
+
+display: inline-block;
+
+This is VERY important for:
+
+navigation bars
+buttons
+cards
+layouts
+Problem
+
+Create:
+
+three divs
+
+Requirements:
+
+width → 150px
+height → 100px
+background → lightblue
+border → 2px solid blue
+display → inline-block

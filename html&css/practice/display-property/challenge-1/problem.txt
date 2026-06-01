@@ -1,0 +1,35 @@
+Display Property
+
+You’ll learn:
+
+block
+inline
+inline-block
+none
+
+VERY important for layouts and navbar design.
+
+Next Challenge 🚀
+Display Block vs Inline
+
+Create:
+
+two <div>
+two <span>
+Requirements
+Divs
+background lightblue
+margin 10px
+Spans
+background pink
+
+Observe:
+
+div takes full width
+span takes only content width
+Goal
+
+Understand:
+✅ block elements
+✅ inline elements
+✅ layout behavior

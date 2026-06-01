@@ -1,0 +1,13 @@
+.Parent{
+    background-color: lightgray;
+    padding: 20px;
+    display: flex;
+}
+
+.child{
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    border: 2px solid blue;
+    margin: 10px;
+}
