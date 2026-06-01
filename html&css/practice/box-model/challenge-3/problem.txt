@@ -1,0 +1,11 @@
+Problem:
+Create a div using:
+
+* width 300px
+* padding 30px
+* 5px solid black border
+* lightgreen background
+* box-sizing: border-box
+
+Goal:
+Understand how total width changes using box-sizing.
