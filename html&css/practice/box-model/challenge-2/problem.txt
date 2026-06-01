@@ -1,0 +1,12 @@
+Problem:
+Create a div with:
+
+* width 250px
+* pink background
+* different padding values
+* top margin 50px
+* left margin 100px
+* 3px dashed red border
+
+Goal:
+Practice individual box model sides.

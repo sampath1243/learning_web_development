@@ -1,0 +1,27 @@
+First Box Model Challenge 🚀
+Problem
+
+Create a webpage with:
+
+One <div>
+Requirements
+
+The div should have:
+
+width → 300px
+background color → lightblue
+padding → 20px
+border → 5px solid blue
+margin → 30px
+
+Inside div write:
+
+Learning CSS Box Model
+Rules
+
+Use:
+
+width
+padding
+border
+margin
