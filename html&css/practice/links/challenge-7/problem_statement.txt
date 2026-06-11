@@ -1,0 +1,51 @@
+Challenge 7: Style Links Based on Their State
+
+Objective:
+Learn how CSS changes the appearance of links based on user interaction.
+
+Requirements:
+
+1. Create a Google link.
+
+2. Apply the following styles:
+
+   Unvisited Link:
+   - Red
+
+   Visited Link:
+   - Green
+
+   Mouse Hover:
+   - Hotpink
+
+   Active (while clicking):
+   - Blue
+
+3. Use CSS pseudo-classes:
+   :link
+   :visited
+   :hover
+   :active
+
+Important:
+
+Follow this order:
+
+a:link
+a:visited
+a:hover
+a:active
+
+Expected Behavior:
+
+- New link → Red
+- After visiting → Green
+- Mouse over → Hotpink
+- While clicking → Blue
+
+Concepts Practiced:
+
+- Pseudo-classes
+- Link states
+- User interaction
+- LoVe HAte rule

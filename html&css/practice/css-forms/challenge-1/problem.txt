@@ -1,0 +1,36 @@
+First CSS Form Challenge 🚀
+Problem
+
+Create a simple login form.
+
+Requirements
+HTML
+
+Create:
+
+one heading
+email input
+password input
+submit button
+CSS Requirements
+Inputs
+width → 250px
+padding → 10px
+margin → 10px
+border → 2px solid gray
+border-radius → 5px
+Button
+background → dodgerblue
+text color → white
+padding → 10px 20px
+border → none
+border-radius → 5px
+Hover Effect
+
+When mouse hovers button:
+
+background → tomato
+
+Use:
+
+button:hover

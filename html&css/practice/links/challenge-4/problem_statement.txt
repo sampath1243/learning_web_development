@@ -1,0 +1,28 @@
+Challenge : Navigate Back Using Parent Folder
+
+Objective:
+Learn how to move back one folder using ../
+
+Folder Structure:
+
+challenge-4
+│
+├── index.html
+│
+└── pages
+    └── about.html
+
+Requirements:
+1. Open about.html.
+2. Add a link named "Home".
+3. Clicking Home should return to index.html.
+4. Use ../ in the href path.
+
+Expected Output:
+About Page
+Home
+
+Concepts Practiced:
+- Parent folder navigation
+- ../ notation
+- Relative paths

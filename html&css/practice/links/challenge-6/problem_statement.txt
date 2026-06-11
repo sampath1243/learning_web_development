@@ -1,0 +1,40 @@
+Challenge 6: Style HTML Links Using CSS
+
+Objective:
+Learn how to apply CSS styles to anchor (<a>) tags.
+
+Requirements:
+
+1. Create a link with the text:
+   Google
+
+2. Link should open:
+   https://google.com
+
+3. Apply the following CSS:
+
+   - Text color: red
+   - Remove underline
+   - Font size: 20px
+   - Font weight: bold
+
+4. Keep CSS in a separate style.css file.
+
+Expected Output:
+
+Google
+
+The link should:
+- Appear red
+- Have no underline
+- Be bold
+- Have larger text size
+
+Concepts Practiced:
+
+- External CSS
+- Anchor tag styling
+- color
+- text-decoration
+- font-size
+- font-weight

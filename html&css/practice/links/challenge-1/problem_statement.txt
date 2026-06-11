@@ -1,0 +1,17 @@
+Challenge : Open Link in a New Tab
+
+Objective:
+Learn how to use the target attribute.
+
+Requirements:
+1. Create a Google link.
+2. Clicking the link should open Google in a new browser tab.
+3. Use target="_blank".
+
+Expected Output:
+Google
+
+Concepts Practiced:
+- target attribute
+- _blank value
+- New tab navigation

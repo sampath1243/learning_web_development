@@ -1,0 +1,19 @@
+Challenge : Link One HTML Page to Another
+
+Objective:
+Learn internal navigation between HTML pages.
+
+Requirements:
+1. Create index.html.
+2. Create about.html.
+3. Add a link named "About Us" in index.html.
+4. Clicking the link should open about.html.
+
+Expected Output:
+Home Page
+About Us
+
+Concepts Practiced:
+- Internal links
+- Multi-page websites
+- Relative paths (same folder)

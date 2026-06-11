@@ -1,0 +1,32 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+.form-container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    border: 2px solid black;
+    padding: 1em;
+    width: 400px;
+
+    display: grid;
+    gap: lem;
+    
+    border-radius: 3px;
+
+    input{
+        padding: 10px;
+        border-radius: 3px;
+        border: 1px solid gray;
+        letter-spacing: 1px;
+    }
+}

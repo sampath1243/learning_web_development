@@ -1,0 +1,27 @@
+Challenge : Link to a Page Inside a Folder
+
+Objective:
+Learn how to navigate into folders using relative paths.
+
+Folder Structure:
+
+challenge-3
+│
+├── index.html
+│
+└── pages
+    └── about.html
+
+Requirements:
+1. Create a link named "About Us" in index.html.
+2. about.html is located inside the pages folder.
+3. Clicking the link should open pages/about.html.
+
+Expected Output:
+Home Page
+About Us
+
+Concepts Practiced:
+- Relative paths
+- Folder navigation
+- href="pages/about.html"

@@ -1,0 +1,29 @@
+Challenge : Access an Image from Another Folder
+
+Objective:
+Learn how image paths work.
+
+Folder Structure:
+
+challenge-5
+│
+├── pages
+│   └── about.html
+│
+└── images
+    └── OIP.png.jpeg
+
+Requirements:
+1. Open about.html.
+2. Display the image OIP.png.jpeg.
+3. Use a relative path.
+4. The image is located in a different folder.
+
+Expected Output:
+Image displayed on the page.
+
+Concepts Practiced:
+- img tag
+- src attribute
+- Relative paths
+- ../ notation

@@ -1,0 +1,25 @@
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+form{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    width:250px;
+}
+
+input{
+    padding:10px;
+}
+
+button{
+    padding:10px;
+}
+
+#error{
+    color:red;
+}
